@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(145, 88, 19);
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  #display {
+    font-size: 2em;
+    margin-bottom: 20px;
+    background-color: brown;
+  }
+  
+  #controls button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
+  #laps {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #laps li {
+    margin: 5px;
+  }
+#controls{
+    background-color: aquamarine;
+    color: blue;
+}  
